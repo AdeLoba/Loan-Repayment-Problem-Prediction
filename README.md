@@ -2,7 +2,6 @@
 
 Author: Adedayo K. Adebayo
 
-
 A simple model is built using the train_u6lujuX_CVtuZ9i.csv data set for predicting Loan repayment. This project is organized as follows: 
 (a) Importing libraries and Data preview; 
 (b) Data cleaning;
